@@ -175,12 +175,13 @@ body {
 :root {
     --accent: #38bdf8; /* cyan/teal */
     --accent-600: #0077cc;
+    --accent-color: #0f4cb2; /* dark blue highlights */
     /* panel surface + text */
     --panel-bg: #ffffff; /* panel surface: white */
     --panel-text: #0b1321; /* dark text for white panels */
     /* borders / glow */
-    --panel-border: color-mix(in srgb, var(--accent) 35%, transparent);
-    --panel-shadow: rgba(56,189,248,.28);
+    --panel-border: color-mix(in srgb, #0f4cb2 55%, transparent);
+    --panel-shadow: rgba(15,76,178,.42);
     /* heading tint (blue theme) */
     --heading-fg: #1e40af;
 }
@@ -189,10 +190,11 @@ body {
 :root[data-theme="red"] {
     --accent: #ef4444;
     --accent-600: #b91c1c;
+    --accent-color: #b91c1c; /* red highlights */
     --panel-bg: #ffffff;
     --panel-text: #0b1321;
-    --panel-border: color-mix(in srgb, var(--accent) 45%, transparent);
-    --panel-shadow: rgba(239,68,68,.35);
+    --panel-border: color-mix(in srgb, #b91c1c 55%, transparent);
+    --panel-shadow: rgba(185,28,28,.44);
     --heading-fg: #ef4444;
 }
 
@@ -202,15 +204,15 @@ body {
 .glow-panel {
     background: var(--panel-bg);
     color: var(--panel-text);
-    border: 1px solid var(--panel-border);
+    border: 3px solid var(--panel-border);
     border-radius: 14px;
     padding: 1rem;
     /* inset subtle line + outer glow */
-    box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 14%, transparent) inset, 0 0 36px var(--panel-shadow);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent-color, var(--accent)) 14%, transparent) inset, 0 0 56px var(--panel-shadow);
 }
 
 .glow-panel--intense {
-    box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 18%, transparent) inset, 0 0 52px color-mix(in srgb, var(--panel-shadow) 100%, transparent);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent-color, var(--accent)) 18%, transparent) inset, 0 0 72px color-mix(in srgb, var(--panel-shadow) 100%, transparent);
 }
 
 /* Optional title styling if you want a dot for panel headings */
@@ -230,8 +232,8 @@ body {
         width: .48rem;
         height: .48rem;
         border-radius: 999px;
-        background: var(--accent);
-        box-shadow: 0 0 9px color-mix(in srgb, var(--accent) 55%, transparent);
+        background: var(--accent-color, var(--accent));
+        box-shadow: 0 0 9px color-mix(in srgb, var(--accent-color, var(--accent)) 55%, transparent);
     }
 
 /* =========================================================
@@ -2019,15 +2021,15 @@ body[data-theme="red"] {
 }
 
     .nav-button:hover {
-        border-color: #38bdf8;
-        background: #f8fafc;
+        border-color: var(--accent-color, #0f4cb2);
+        background: color-mix(in srgb, var(--accent-color, #0f4cb2) 10%, #ffffff);
         transform: translateY(-1px);
     }
 
     .nav-button--active {
-        background: #eff6ff;
-        border-color: #38bdf8;
-        color: #1d4ed8;
+        background: color-mix(in srgb, var(--accent-color, #0f4cb2) 15%, #ffffff);
+        border-color: var(--accent-color, #0f4cb2);
+        color: #0f172a;
     }
 
 .nav-actions {
@@ -2168,7 +2170,11 @@ body[data-theme="red"] {
 .site-nav {
     position: sticky;
     top: 0;
-    z-index: 50;
+    z-index: 80;
+    background: var(--panel-bg);
+    border-radius: 1.5rem;
+    padding: 0.25rem 0.35rem;
+    box-shadow: 0 18px 40px rgba(12, 30, 80, 0.18);
 }
 
 .nav-list {
@@ -2199,13 +2205,14 @@ body[data-theme="red"] {
 }
 
     .nav-link:hover {
-        color: var(--text, #e7eef7);
+        color: var(--accent-color, #0f4cb2);
     }
 
     .nav-link.is-active {
-        color: var(--accent-color, #5ddcff);
-        text-shadow: 0 0 6px color-mix(in srgb, var(--accent-color, #5ddcff), transparent 60%), 0 0 18px color-mix(in srgb, var(--accent-color, #5ddcff), transparent 75%);
-        background: color-mix(in srgb, var(--accent-color, #5ddcff), transparent 92%);
+        color: var(--accent-color, #0f4cb2);
+        text-shadow: 0 0 8px color-mix(in srgb, var(--accent-color, #0f4cb2), transparent 55%), 0 0 20px color-mix(in srgb, var(--accent-color, #0f4cb2), transparent 80%);
+        background: color-mix(in srgb, var(--accent-color, #0f4cb2), transparent 85%);
+        box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent-color, #0f4cb2), transparent 50%);
     }
 
 /* icon sizing */
@@ -2614,7 +2621,6 @@ body[data-theme="red"] {
     inset: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/images/amerikaner.online_site/background_v2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
