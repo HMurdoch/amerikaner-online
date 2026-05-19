@@ -1,0 +1,470 @@
+{
+  "details": "Hugh Murdoch · South African · DOB: 1979-01-22 · +27 (0)63 627 7091 · hughmurdoch@gmail.com",
+  "position": "AI Webmaster / Full Stack Developer / AI Specialist Developer / Software Engineering Leader",
+  "education": [
+    {
+      "course": "Masters Organizational and Business Psychology",
+      "institute": "University of Liverpool (Distance Learning)",
+      "years": "2026 – 202X",
+      "qualificationType": "Masters Degree",
+      "subjects": [],
+      "sourcelink": ""
+    },
+        {
+      "course": "Postgraduate Bachelors Honors – AI Augmented Software Engineering & Architecture NQF8",
+      "institute": "School of Open Learning (SOL) University of Delhi",
+      "years": "2024-2025",
+      "qualificationType": "BSc Honors Degree",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "The Complete AI Guide: Learn ChatGPT, Generative AI & More",
+      "institute": "Online Course",
+      "years": "2025",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "AI for Business Leaders",
+      "institute": "Online Course",
+      "years": "2025",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Generative AI for Beginners",
+      "institute": "Online Course",
+      "years": "2025",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Node with React: Full Stack Web Development",
+      "institute": "Online Course",
+      "years": "2025",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "React - The Complete Guide 2025 (incl. Next.js, Redux)",
+      "institute": "Online Course",
+      "years": "2024 – 2025",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "C# Advanced: Take Your C# Skills to the Next Level",
+      "institute": "Online Course",
+      "years": "2023",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "C# Intermediate: Classes, Interfaces and Object-oriented Programming",
+      "institute": "Online Course",
+      "years": "2023",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
+      "institute": "Online Course",
+      "years": "2023",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "The Modern JavaScript Bootcamp",
+      "institute": "Online Course",
+      "years": "2020",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "The Web Developer Bootcamp",
+      "institute": "Online Course",
+      "years": "2019",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Angular – The Complete Guide",
+      "institute": "Online Course",
+      "years": "2019",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "The Complete React Developer Course (w/ Hooks and Redux)",
+      "institute": "Online Course",
+      "years": "2018",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "React – The Complete Guide (incl Hooks React Router, Redux)",
+      "institute": "Online Course",
+      "years": "2018",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Learn Ethical Hacking and Effective Counter Measures from Scratch",
+      "institute": "Online Course",
+      "years": "2016-2017",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Agile and Scrum – Mastering Agile Project Management",
+      "institute": "Online Course",
+      "years": "2016",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Body Language for Business People",
+      "institute": "Online Course",
+      "years": "2016",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "BSc-IT (IT Management Stream)",
+      "institute": "UNISA",
+      "years": "2005 - 2013",
+      "qualificationType": "Bachelors of Science Degree",
+      "subjects": [
+        "Introduction to Programming 1",
+        "Introduction to Programming 2",
+        "Computer Systems: Fundamental Concepts",
+        "Introduction to Business Information Systems",
+        "Introduction to Visual Programming",
+        "Comprehensive Skills for Science",
+        "Human Computer Interaction I",
+        "End-User Computing",
+        "System Analysis and Design Methods",
+        "Object Oriented Concepts",
+        "Basic Statistics",
+        "Financial Accounting Principles",
+        "Concepts and Procedures",
+        "Business Management 1A",
+        "Programming Data Structures",
+        "Programming Contemporary Concepts"
+      ],
+      "sourcelink": ""
+    },
+    {
+      "course": "Postgraduate Bachelors Honors – Applied Psychology NQF8",
+      "institute": "Cognitive Learning Solutions/School of Open Learning (SOL) University of Delhi",
+      "years": "2013-2014",
+      "qualificationType": "BSc Honors Degree",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Postgraduate Bachelors Honors - CAR (Certification in Management: Automotive Retail) NQF8",
+      "institute": "Rhodes Business School",
+      "years": "2011-2012",
+      "qualificationType": "BSc Honors Degree",
+      "subjects": [
+        "Personal Mastery",
+        "Finance",
+        "Macroeconomics",
+        "Leadership and Management",
+        "Business Planning",
+        "Strategy Implementation and Change Management",
+        "Action Learning"
+      ],
+      "sourcelink": ""
+    },
+    {
+      "course": "HPP3 (High Performance People) Conflict Resolution, Performance Management and Performance Optimization for Managers",
+      "institute": "Barloworld Training",
+      "years": "2010",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "PRINCE2 (Project Management in a Controlled Environment) Practitioner",
+      "institute": "CTU",
+      "years": "2009",
+      "qualificationType": "Certification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "PRINCE2 (Project Management in a Controlled Environment) Foundation",
+      "institute": "CTU",
+      "years": "2009",
+      "qualificationType": "Certification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Microsoft Biztalk Training",
+      "institute": "QuickLearn and Torque-IT",
+      "years": "2008",
+      "qualificationType": "Certification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "BizTalk Deep Dive Training",
+      "institute": "QuickLearn",
+      "years": "2008",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Macromedia Flash 8 Advanced Action Scripting",
+      "institute": "IntoWeb",
+      "years": "2007",
+      "qualificationType": "Certification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Macromedia Flash 8",
+      "institute": "IntoWeb",
+      "years": "2007",
+      "qualificationType": "Certification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "LAMP (Linux, Apache, MySQL and PHP)",
+      "institute": "Linux Solutions",
+      "years": "2006",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "MCDBA - Microsoft Certified Database Administrator",
+      "institute": "Torque-IT",
+      "years": "2004",
+      "qualificationType": "Professional Qualification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "MCSD - Microsoft Certified Solution Developer .NET",
+      "institute": "Torque-IT",
+      "years": "2004",
+      "qualificationType": "Professional Qualification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "MCAD - Microsoft Certified Applications Developer",
+      "institute": "Torque-IT",
+      "years": "2004",
+      "qualificationType": "Professional Qualification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Web Design",
+      "institute": "Bluedot Training Academy",
+      "years": "2001",
+      "qualificationType": "Certificate",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "MCSE - Microsoft Certified Systems Engineer",
+      "institute": "Training Connection",
+      "years": "2000",
+      "qualificationType": "Professional Qualification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "MCP - Microsoft Certified Professional",
+      "institute": "Training Connection",
+      "years": "2000",
+      "qualificationType": "Professional Qualification",
+      "subjects": [],
+      "sourcelink": ""
+    },
+    {
+      "course": "Matric (Grade 12)",
+      "institute": "Allen Glen High",
+      "years": "1997",
+      "qualificationType": "Matric",
+      "subjects": [],
+      "sourcelink": ""
+    }
+  ],
+  "experience": [
+    {
+      "company": "AI-Augmented Solutions Architect/AI-Augmented Software Engineer/Jack and Master of All Trades",
+      "title": "Solutions Architect/AI Webmaster/Jack and Master of All Trades",
+      "from": "2025-06",
+      "to": "Present",
+      "description": "As AI-Augmented Solutions Architect/AI-Augmented Software Engineer at Elementech Digital Solutions, I operate as a hands-on architect, engineer, and product builder responsible for designing, developing, and scaling end-to-end digital platforms and ventures, including the conception and build of Metal Link. My role spans full-stack engineering, AI integration, platform architecture, and digital operations — effectively bridging strategy, execution, and innovation.\n\nSolutions Architecture & Platform Engineering\n• Design and implement end-to-end architectures across frontend (React, Next.js), backend (C#, Node.js), and data layers (PostgreSQL), ensuring scalable, secure, and maintainable systems.\n• Architect API-first, cloud-native platforms with clear separation of concerns across presentation, service, and data tiers.\n• Define system integration patterns, authentication strategies, and data flows across distributed services and third-party platforms.\n\nAI, Automation & Digital Innovation\n• Integrate AI capabilities into platforms using modern LLMs and automation pipelines, enabling intelligent workflows, content generation, and decision support.\n• Develop AI-assisted tooling for data enrichment, validation, and user interaction, enhancing platform usability and reducing manual effort.\n• Rapidly prototype and iterate on new digital products and features, validating concepts from idea through to production.\n\nAI Webmaster & Digital Ownership\n• Own and manage full web ecosystems including hosting, deployment, SEO, performance optimisation, and uptime.\n• Configure and maintain web servers (Nginx), domains, SSL, and cloud infrastructure across VPS and cloud environments.\n• Ensure high-performance, secure, and resilient web platforms through monitoring, optimisation, and continuous improvement.\n\nProduct Development & Venture Building (Metal Link)\n• Conceptualised and developed Metal Link as a digital platform, defining product vision, architecture, and technical execution.\n• Translate business ideas into working systems, including UI/UX design, backend services, and deployment pipelines.\n• Iterate on product-market fit through continuous development, experimentation, and refinement.\n\nDevOps, Deployment & Infrastructure\n• Implement CI/CD pipelines and automated deployment strategies using modern tooling and cloud platforms.\n• Manage environments across development, staging, and production, ensuring stability and rapid release cycles.\n• Optimise infrastructure for cost, performance, and scalability within constrained resource environments.\n\nFull-Stack Execution & Problem Solving\n• Operate as a \"0-to-1\" builder, capable of taking systems from concept to production independently.\n• Solve complex technical challenges across the entire stack, from UI/UX to backend logic and infrastructure.\n• Continuously evaluate and adopt new technologies to improve delivery speed, capability, and innovation.\n\nKey Achievements\n• Built and launched multiple full-stack platforms and experimental products under Elementech, including Metal Link.\n• Established a repeatable approach to rapidly designing and deploying modern web applications with integrated AI capabilities.\n• Delivered production-ready systems under resource constraints, demonstrating adaptability, speed, and end-to-end ownership.",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },    {
+      "company": "Trialogue Knowledge Hub NPO Directory & CharitySA (Department of Social Development (DSD))",
+      "title": "Solutions Architect/AI Webmaster",
+      "from": "2020-03",
+      "to": "Present",
+      "description": "As Solutions Architect/AI Webmaster for Trialogue's Knowledge Hub and CharitySA platforms, I help lead the full technology strategy, modernization, and digital transformation initiatives for two of South Africa's largest non-profit information ecosystems. My role combines hands-on technical direction, solution architecture, and leadership of cross-functional teams responsible for platform development, QA, and DevOps — ensuring scalable, secure, and integrated systems that serve organizations in the NPO sector.\n\nTechnology Strategy & Delivery Governance\n• Define and execute the IT roadmap across web, integration, and automation platforms, ensuring alignment with organizational goals and donor expectations.\n• Introduced modern SDLC governance, CI/CD pipelines, and DevOps alignment using Azure DevOps, GitHub Actions, and SonarQube to improve delivery cadence, traceability, and audit readiness.\n• Lead sprint planning, resource allocation, and Agile ceremonies (Scrum & Kanban hybrids) ensuring consistent release cycles and quality output.\n\nPlatform Modernisation & Systems Integration\n• Oversaw modernization of legacy PHP and ASP.NET platforms into .NET Core, React, and PostgreSQL ecosystems hosted on Azure App Services.\n• Directed the redevelopment of CharitySA's directory and Knowledge Hub portals into API-driven, cloud-native architectures enabling automated data synchronization across microsites.\n• Led migration from manual ETL workflows to automated AI-assisted ingestion pipelines, streamlining content validation and indexing.\n• Implemented API-based integration between the Knowledge Hub, partner portals, and analytics systems — replacing legacy SFTP/file-driven solutions.\n\nQuality Assurance and Continuous Improvement\n• Established a comprehensive QA function, including manual and automated testing frameworks integrated into CI/CD pipelines.\n• Introduced automated regression testing suites using Selenium, Postman, and Playwright, achieving 85% test coverage across critical endpoints.\n• Developed QA reporting dashboards to measure platform stability, build quality, and test coverage improvements over time.\n• Ensured compliance with secure coding standards and alignment with ISO 27001 and data protection frameworks.\n\nAI, Automation & Innovation\n• Championed the introduction of AI-driven content enrichment and data intelligence, using Azure Cognitive Services for document classification, keyword tagging, and natural language summarization of NPO data.\n• Deployed Azure AI Vision and Document Intelligence proof-of-concepts to automate data extraction and validation for charity profiles.\n• Implemented automation pipelines for data ingestion, testing, and deployment, reducing release times by over 40%.\n\nProject & People Management\n• Oversee a multi-disciplinary self-managing team of developers, QA engineers, DevOps specialists, and content analysts.\n• Oversee performance management, recruitment, mentoring, and career development aligned with organizational objectives.\n• Collaborate with product managers and stakeholders on feature roadmaps, risk management, and resource planning.\n\nHosting, Security & Compliance\n• Manage cloud infrastructure across Azure and AWS, ensuring availability, scalability, and backup continuity.\n• Implemented identity and access management aligned with best practices from prior experience in financial and enterprise environments (CloudBadger / Standard Bank).\n• Drive cybersecurity awareness, vulnerability scanning, and patch management programs across all systems.\n\nKey Achievements\n• Modernized Legacy Systems — Transformed two major NPO platforms from legacy static websites to dynamic, API-based, Azure-hosted ecosystems with integrated microsite management and automation.\n• Established QA Maturity — Built the organization's first dedicated QA team and processes, leading to improved release quality and faster incident resolution.\n• AI Integration Success — Delivered multiple AI-based POCs adopted for production use, including automated classification and summarization of NPO data, contributing to faster onboarding and richer directory insights.\n• Cross-System Automation — Automated key workflows such as NPO validation, reporting generation, and partner data synchronization, freeing significant staff capacity for higher-value tasks.\n• Stakeholder & Partnership Enablement — Strengthened collaboration with data partners, donors, and content providers through standardized APIs and enhanced reporting dashboards.",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "CloudBadger (Standard Bank and Outsurance)",
+      "title": "Senior Software Developer",
+      "from": "2022-06",
+      "to": "2025-05",
+      "description": "Contributed to the development and modernization of middle-tier integration systems powering online banking applications across multiple African countries. Operated in a fully remote, international Agile environment, ensuring seamless integration between portal and channel systems for enterprise-grade financial platforms.\n\n• Developed and maintained hundreds of secure C# endpoints supporting Origination, Transaction, and Account Management systems.\n\n• Ensured architectural alignment with enterprise security standards, regulatory compliance, and scalability requirements across multi-country deployments.\n\n• Participated actively in Agile sprints, delivering clean, testable code with comprehensive unit test coverage and adherence to SOLID principles.\n\n• Collaborated with cross-functional teams including QA, DevOps, and Product Owners to ensure alignment across releases and minimize production issues.\n\n• Contributed to continuous improvement initiatives by identifying technical debt, proposing refactoring strategies, and implementing best practices.\n\n• Conducted knowledge-sharing sessions across teams to standardize practices, improve technical depth, and promote collaboration in a fully remote environment.\n\n• Collaborated with Product Owners and QA teams to ensure transparent communication, sprint alignment, and product quality.\n\nTechnology & Tools:\n\n• C#, .NET Core, React, Node.js, PostgreSQL, JIRA, Git, Jenkins, Agile (Scrum), CI/CD",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Wonderlabz",
+      "title": "Software Development Team Lead",
+      "from": "2021-05",
+      "to": "2022-05",
+      "description": "Led a globally distributed development team in a rapidly scaling remote-first organization that grew from 37 to over 170 employees within a year. Oversaw software delivery, QA alignment, and Agile process governance for a mission-critical LS Platform used across multiple international business units.\n\n• Managed a cross-functional Agile squad comprising three Senior Full Stack Developers and two QA Engineers, ensuring sprint discipline, quality assurance, and timely delivery.\n\n• Provided technical leadership and mentorship, conducting code reviews, architectural design sessions, and individual performance coaching.\n\n• Implemented and refined Agile workflows, sprint ceremonies, and retrospectives, contributing to a culture of continuous improvement and high team morale.\n\n• Owned delivery planning and risk mitigation strategies, ensuring predictable velocity and stakeholder confidence.\n\n• Coordinated closely with Product Management, UX, and other engineering leads to align roadmaps, manage dependencies, and prioritize backlogs.\n\n• Championed engineering standards, including automated testing, code quality enforcement, and deployment best practices, improving overall system reliability.\n\n• Drove recruitment and onboarding initiatives, contributing to a 4x headcount increase while maintaining engineering quality and team culture.\n\nTechnology & Tools:\n\n• C#, .NET Core, React, Node.js, PostgreSQL, Azure DevOps, Git, Agile (Scrum), CI/CD",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "World Sports Betting",
+      "title": "Development Manager",
+      "from": "2020-07",
+      "to": "2021-05",
+      "description": "Managed the full IT development and operations function for a high-traffic online gaming and betting organization. Oversaw multiple integrated systems, ensuring performance, scalability, and compliance while driving modernization and internal capability growth.\n\n• Directed end-to-end software development and system integration across multiple online platforms, ensuring uptime, data accuracy, and seamless customer experiences.\n\n• Managed a technical team of 4 internal developers, with plans to expand to 24 direct reports to support the in-house development of a new ERP system.\n\n• Oversaw service delivery, operational support, and user assistance for internal staff, clients, and technology partners.\n\n• Led HR responsibilities including recruitment, onboarding, career planning, and performance management to strengthen technical capacity and team culture.\n\n• Ensured IT and product strategies were fully aligned with business growth objectives, recommending and implementing technologies to enhance system stability and efficiency.\n\n• Collaborated with executive leadership through weekly IT management meetings and continuous project progress reporting.\n\n• Evaluated and integrated third-party solutions and platforms to extend functionality and improve system interoperability.\n\nTechnology & Tools:\n\n• C#, .NET Core, SQL Server, REST APIs, Node.js, PHP, MySQL, Jira, Git, Agile SDLC, ERP Systems",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Cognadev",
+      "title": "Development Manager",
+      "from": "2019-05",
+      "to": "2020-06",
+      "description": "Managed all IT operations, development, and infrastructure supporting Cognadev's suite of global psychometric and assessment systems. Oversaw on-premises and Azure cloud environments, GDPR-compliant data handling, and system integration across multiple assessment and learning platforms.\n\n• Directed the implementation, maintenance, and modernization of all digital platforms, including Cognadev assessment systems, Cliquidity, and the TalentLMS learning management platform.\n\n• Managed and optimized hybrid infrastructure across Azure, on-prem, and GDPR-aligned hosting via a Veesp reverse proxy and secure JSON object storage for European data processing.\n\n• Oversaw portal management systems and full-stack integrations across internal and client-facing platforms to enhance scalability and reliability.\n\n• Led a team of 4 developers and support staff, responsible for HR functions, performance management, and professional growth.\n\n• Ensured strategic alignment of IT initiatives with organizational goals, advising Executives and Directors on emerging technologies and innovation opportunities.\n\n• Maintained full ownership of procurement, vendor management, and IT budgeting, achieving cost efficiencies and improved operational stability.\n\n• Partnered with third-party vendors and consultants to select, implement, and secure fit-for-purpose technologies.\n\nTechnology Stack:\n\n• C#, SQL Server, MySQL, PostgreSQL, PHP, Java, Azure Cloud, TalentLMS, GDPR Compliance",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "DStv - Digital Media",
+      "title": "Senior Lead Developer",
+      "from": "2014-09",
+      "to": "2019-05",
+      "description": "Delivered enterprise-grade software solutions for DStv's Digital Media platforms, including DStv.com, SuperSport, and Self Service. Contributed to the modernization of high-traffic consumer applications and backend data services supporting millions of daily users across Africa.\n\nKey Responsibilities & Achievements:\n\n• Developed and maintained DStv's responsive flagship website (DStv.com) using C#, MVC, Angular, and JavaScript, applying Onion architecture and RESTful services for modular, scalable design.\n\n• Engineered integrations with Cybertron CMS, consuming composite REST APIs and ensuring high-performance data delivery across web and mobile platforms.\n\n• Built and optimized ETL pipelines for SuperSport's large-scale sports data ingestion system, processing feeds via API and FTP into SQL Server and MongoDB environments.\n\n• Designed and exposed REST APIs for partner integrations with iMedia and third-party sports applications.\n\n• Supported continuous delivery pipelines with Jenkins, Git, and Visual Studio (2015–2017) under Scrum and hybrid ScrumBan methodologies.\n\n• Contributed to information security initiatives, completing certifications in penetration testing and countermeasures; implemented secure coding and data validation standards.\n\n• Operated in a dual Linux and Windows environment, supporting cross-platform deployments and CI/CD automation.\n\n• Recognized for excellence — received Best Team Performance and Exceptional Teamwork awards for outstanding delivery and collaboration across multiple divisions.\n\nTechnology Stack:\n\n• C#, ASP.NET MVC, Angular, JavaScript, REST APIs, SQL Server, MongoDB, Jenkins, Git, Cybertron CMS, Linux, Windows Server, Agile (Scrum/ScrumBan)",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Regenesys Business School (Pty) Ltd",
+      "title": "Head: Information Technology",
+      "from": "2012-11",
+      "to": "2014-08",
+      "description": "Promoted from E-Learning Manager to Head of IT, overseeing the institution's full digital transformation across Data & Analytics (BI), Infrastructure, and E-Learning & Delivery (System Development). Directed technology strategy, team leadership, and platform modernization supporting thousands of learners across local and international programs.\n\n• Led the design, integration, and management of core enterprise systems, including ERP, CRM, and Learner Management Systems, ensuring seamless interoperability between academic and administrative platforms.\n\n• Oversaw infrastructure modernization across Linux and Windows Server environments, driving improvements in scalability, uptime, and information security.\n\n• Managed a cross-functional team of 14 internal staff (including 3 functional managers) and 4 external partners, responsible for development, analytics, and operations delivery.\n\n• Aligned IT strategy with institutional goals, developing digital roadmaps for online learning, student engagement, and data-driven decision-making.\n\n• Implemented process automation, improved SLA compliance, and reduced operational costs through vendor consolidation and optimized licensing.\n\n• Maintained ownership of all online presences (Internet, Intranet, and LMS) and integrated systems supporting blended learning and student support portals.\n\n• Spearheaded technology selection and vendor negotiations, ensuring best-fit solutions for growth, innovation, and compliance.\n\n• Provided strategic reporting and performance insights to the Executive and Directors on infrastructure, digital initiatives, and BI outputs.\n\nTechnology Stack:\n\n• Linux, Microsoft Windows Server, SQL Server, C#, PHP, Java, MySQL, PostgreSQL, ERP/CRM/LMS Integration, BI & Analytics",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Barloworld Motor Retail (Pty) Ltd",
+      "title": "Innovation and Vendor Specialist",
+      "from": "2012-01",
+      "to": "2012-10",
+      "description": "Transitioned from a technical leadership role into a more strategic and commercial function focused on innovation, vendor engagement, and partnership development. Acted as the primary liaison between Barloworld's head office, its 78 national dealerships, and multiple external partners to expand and optimize the organization's digital ecosystem.\n\n• Drove vendor negotiations and partnership agreements with leading automotive platforms including Carfind, Cars.co.za, Surf4Cars, AutoTrader, OLX, JunkMail, and AutoMart, ensuring commercial alignment and long-term collaboration.\n\n• Represented the R&D department in cross-functional meetings with executive stakeholders, third-party vendors, and dealership management to translate business objectives into sustainable digital strategies.\n\n• Championed the commercialization of internally developed systems from the R&D division, including CRM and stock management platforms, promoting adoption across 78 dealerships and external listing partners.\n\n• Managed vendor performance, pricing negotiations, and service-level adherence for third-party integrations supporting online inventory, advertising feeds, and lead-generation tools.\n\n• Supported the innovation roadmap by identifying emerging digital trends in the automotive retail sector and recommending new technologies to enhance customer engagement and operational efficiency.\n\n• Strengthened interdepartmental collaboration between IT, Sales, and Marketing teams to align system functionality with business and sales goals.\n\n• Facilitated presentations and demonstrations of Barloworld's in-house solutions to dealership executives and external partners to drive uptake and showcase technological advantages.",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Barloworld Motor Retail (Pty) Ltd",
+      "title": "Research and Development Manager",
+      "from": "2007-09",
+      "to": "2012-01",
+      "description": "Promoted from Senior Business Analyst/Team Lead to manage R&D across the group's intranet, internet, and integration environments supporting 78 dealerships. Led a multidisciplinary team of developers, analysts, and testers to deliver enterprise-grade web systems, data integration frameworks, and performance optimization solutions across national operations.\n\n• Directed the architecture, development, and deployment of mission-critical systems for dealer management, online sales, CRM, and inventory platforms.\n\n• Managed three technical teams (Intranet, Internet, Integration) comprising 14 staff, overseeing resource allocation, SDLC adherence, performance management, and professional development.\n\n• Spearheaded the rollout of Barloworld's new web environment, including infrastructure modernization, system design, and migration to scalable multi-tier architectures.\n\n• Oversaw vendor selection, technology evaluation, and contract negotiation with major partners, ensuring alignment with business goals and budget constraints.\n\n• Introduced QA and regression testing strategies (A/B, corridor, and UAT), improving system reliability and aligning releases with UX best practices.\n\n• Implemented risk and disaster recovery frameworks, cost–benefit analyses, and ROI forecasting to support strategic IT investment decisions.\n\n• Delivered governance and IT strategy alignment, collaborating with EXCO and MANCO to develop policies and performance frameworks supporting enterprise growth.\n\n• Reduced operating costs through process automation, asset optimization, and vendor consolidation.\n\n• Represented R&D in national and international workshops and conferences, ensuring continuous adoption of emerging technologies and best practices.\n\nTechnologies & Tools:\n\n• C#, ASP.NET, SQL Server, IIS, PHP, MySQL, HTML/CSS, JavaScript, XML, IIS, SharePoint, Active Directory, REST/SOAP Integration, SDLC, Agile/Scrum, Jenkins, Git",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Johncom Media Investments Limited",
+      "title": "Web Support Engineer",
+      "from": "2006-04",
+      "to": "2007-08",
+      "description": "Provided full-stack technical support and development for multiple high-traffic media websites, ensuring continuous availability, optimized performance, and robust system architecture across both software and hardware environments.\n\n• Supported and maintained multiple web platforms through all stages of the SDLC, from concept to deployment, ensuring system stability and reliability.\n\n• Designed and implemented a multi-tier server architecture, separating environments by hardware and application layer for improved scalability and fault tolerance.\n\n• Delivered a full Disaster Recovery Plan (DRP) with database and content mirroring, load balancing, and failover mechanisms to ensure 24/7 site availability.\n\n• Deployed performance monitoring and stress-testing tools to identify bottlenecks and enhance system resilience.\n\n• Managed site migrations, content permissions, and access control, maintaining security and operational efficiency.\n\n• Performed OS installations, desktop support, and environment configuration for web-based products and services.\n\nTechnology Stack:\n\n• Linux, Windows Server, IIS, Apache, MySQL, SQL Server, HTML/CSS, JavaScript, Performance & Load Testing Tools, SDLC, DRP",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "RTT Logistics",
+      "title": "Senior Webmaster",
+      "from": "2002-09",
+      "to": "2006-03",
+      "description": "Promoted from Webmaster to Senior Webmaster, responsible for the design, maintenance, and modernization of RTT's digital ecosystem, including multiple web applications, portals, and mobile logistics solutions used across national operations.\n\n• Managed and maintained five enterprise web presences, including internal and external goods-tracking systems, intranet/extranet sites, and customer portals.\n\n• Designed and implemented a unified online portal consolidating multiple legacy sites into a single, integrated platform for improved user experience and operational efficiency.\n\n• Developed enterprise systems including a CRM, asset register, content management tool, HR interface, and time-management system.\n\n• Delivered a mobile tracking solution using rugged handheld devices with GPRS synchronization for proof-of-delivery and real-time logistics visibility.\n\n• Built an online data warehouse and reporting platform enabling business-intelligence insights across sales, logistics, and HR.\n\n• Oversaw the creation, deployment, and support of multiple systems spanning web servers, databases, and portals, ensuring performance and reliability.\n\n• Provided continuous improvement through regular upgrades, feedback loops, and performance optimization across platforms.\n\nTechnology Stack:\n\n• ASP, PHP, MySQL, SQL Server, HTML/CSS, JavaScript, GPRS Mobile Integration, IIS, Web Portals, Data Warehousing, CRM Systems",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Standard Bank",
+      "title": "Head Developer / Online Systems Supervisor",
+      "from": "1999-11",
+      "to": "2002-08",
+      "description": "Progressed through multiple roles within Standard Bank's digital division — from Intranet/Internet Officer to Web Developer, Online Systems Supervisor, and ultimately Head Developer — leading major enterprise web initiatives and digital transformation projects for internal and external platforms.\n\n• Led development of Project \"Wolfgang\", Standard Bank's new public-facing internet platform, overseeing design, build, and deployment across business units.\n\n• Appointed Head Developer for Project \"Blue Matter\", the new corporate intranet launched to over 10,000 head office users, ensuring on-time delivery and compliance with design and security standards.\n\n• Managed a development team of junior web developers, providing leadership, code reviews, and technical guidance across multiple concurrent projects.\n\n• Maintained and enhanced Standard Bank's corporate websites and intranet systems, handling both front-end (UI/UX) and back-end (infrastructure and integration) responsibilities.\n\n• Collaborated with business units to define technical requirements, ensuring scalability, performance, and alignment with the bank's IT governance policies.\n\n• Drove consistency in branding, design standards, and content management across multiple digital platforms.\n\nTechnology Stack:\n\n• ASP, HTML/CSS, JavaScript, Classic VB, SQL Server, IIS, Visual Studio, Intranet/Internet Architecture, Web Security",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Acer South Africa",
+      "title": "IT Support Engineer",
+      "from": "1999-08",
+      "to": "1999-10",
+      "description": "Providing support on hardware and software products to customers. Hardware training and user acceptance testing.",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    },
+    {
+      "company": "Upgrade Connection",
+      "title": "Workshop Supervisor",
+      "from": "1998-06",
+      "to": "1999-07",
+      "description": "Started work as a Junior PC Technician, was promoted twice into the position of Workshop Supervisor. Duties included PC repairs, telephonic support, troubleshooting and customer interaction",
+      "duties": [],
+      "technologies": [],
+      "sourcelink": ""
+    }
+  ]
+}
