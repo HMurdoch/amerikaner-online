@@ -90,7 +90,7 @@ export default function Landing() {
                             <GlowItem>
                                 <div>
                                     <h4 className="text-[var(--fg)] font-semibold">Thinking of Leaving?</h4>
-                                    <img src="public/images/amerikaner.online_site/stage_1_1.png" alt="Thinking of leaving?" className="my-2 w-full rounded-lg object-cover" />
+                                    <img src="images/amerikaner.online_site/stage_1_1.png" alt="Thinking of leaving?" className="my-2 w-full rounded-lg object-cover" />
                                     <p className="text-[var(--fg-soft)] text-sm">
                                         Early-stage research, destination comparisons, and the first questions before you commit.
                                     </p>
@@ -99,7 +99,7 @@ export default function Landing() {
                             <GlowItem>
                                 <div>
                                     <h4 className="text-[var(--fg)] font-semibold">In Progress</h4>
-                                    <img src="public/images/amerikaner.online_site/stage_2_1.png" alt="In Progress" className="my-2 w-full rounded-lg object-cover" />
+                                    <img src="images/amerikaner.online_site/stage_2_1.png" alt="In Progress" className="my-2 w-full rounded-lg object-cover" />
                                     <p className="text-[var(--fg-soft)] text-sm">
                                         Application status updates, document checklists, and community support while you wait.
                                     </p>
@@ -108,7 +108,7 @@ export default function Landing() {
                             <GlowItem>
                                 <div>
                                     <h4 className="text-[var(--fg)] font-semibold">Relocated</h4>
-                                    <img src="public/images/amerikaner.online_site/stage_3_1.png" alt="Relocated?" className="my-2 w-full rounded-lg object-cover" />
+                                    <img src="images/amerikaner.online_site/stage_3_1.png" alt="Relocated?" className="my-2 w-full rounded-lg object-cover" />
                                     <p className="text-[var(--fg-soft)] text-sm">
                                         Real arrival stories, settling advice, and life after the move.
                                     </p>

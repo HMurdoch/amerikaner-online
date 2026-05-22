@@ -11,7 +11,7 @@ export default function Journey() {
                     <GlowItem>
                         <div>
                             <h4 className="text-[var(--fg)] font-semibold">Thinking of Leaving?</h4>
-                            <img src="public/images/amerikaner.online_site/stage_1_1.png" alt="Thinking of leaving?" className="my-2 w-full rounded-lg object-cover" />
+                            <img src="images/amerikaner.online_site/stage_1_1.png" alt="Thinking of leaving?" className="my-2 w-full rounded-lg object-cover" />
                             <p className="text-[var(--fg-soft)] text-sm">
                                 Early-stage guidance, country comparisons, research tips, and a place to ask the first hard questions.
                             </p>
@@ -20,7 +20,7 @@ export default function Journey() {
                     <GlowItem>
                         <div>
                             <h4 className="text-[var(--fg)] font-semibold">In Progress</h4>
-                            <img src="public/images/amerikaner.online_site/stage_2_1.png" alt="In Progress" className="my-2 w-full rounded-lg object-cover" />
+                            <img src="images/amerikaner.online_site/stage_2_1.png" alt="In Progress" className="my-2 w-full rounded-lg object-cover" />
                             <p className="text-[var(--fg-soft)] text-sm">
                                 Document checklists, application tracking, process updates, and community help during waiting periods.
                             </p>
@@ -29,7 +29,7 @@ export default function Journey() {
                     <GlowItem>
                         <div>
                             <h4 className="text-[var(--fg)] font-semibold">Relocated</h4>
-                            <img src="public/images/amerikaner.online_site/stage_3_1.png" alt="Relocated?" className="my-2 w-full rounded-lg object-cover" />
+                            <img src="images/amerikaner.online_site/stage_3_1.png" alt="Relocated?" className="my-2 w-full rounded-lg object-cover" />
                             <p className="text-[var(--fg-soft)] text-sm">
                                 Success stories, settling-in advice, cultural adaptation tips, and life after arrival.
                             </p>
