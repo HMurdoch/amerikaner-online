@@ -1,10 +1,11 @@
 import React from "react";
 import GlowPanel from "../components/GlowPanel";
 import GlowItem from "../components/GlowItem";
+import SectionBackground from "../components/SectionBackground";
 
 export default function Connections() {
     return (
-        <div className="space-y-6">
+        <SectionBackground className="space-y-6">
             <GlowPanel title="Connections">
                 <p className="text-[var(--fg-soft)]">
                     Build your support network, connect with relocation peers, and find groups that match your route or destination.
@@ -25,6 +26,6 @@ export default function Connections() {
                     </div>
                 </GlowItem>
             </div>
-        </div>
+        </SectionBackground>
     );
 }

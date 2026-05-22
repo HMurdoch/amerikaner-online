@@ -1,9 +1,10 @@
 import React from "react";
 import GlowPanel from "../components/GlowPanel";
+import SectionBackground from "../components/SectionBackground";
 
 export default function About() {
     return (
-        <div className="space-y-6">
+        <SectionBackground className="space-y-6">
             <GlowPanel title="About Amerikaner.online">
                 <p className="text-[var(--fg-soft)]">
                     Amerikaner.online is a community platform built for people navigating relocation under the South Africa refugee program. We bring verified testimony, practical guides, and peer-led support together in one trusted space.
@@ -29,6 +30,6 @@ export default function About() {
                     </p>
                 </GlowPanel>
             </div>
-        </div>
+        </SectionBackground>
     );
 }

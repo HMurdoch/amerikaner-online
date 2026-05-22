@@ -1,13 +1,14 @@
 import React from "react";
 import GlowPanel from "../components/GlowPanel";
 import GlowItem from "../components/GlowItem";
+import SectionBackground from "../components/SectionBackground";
 
 export default function Stories() {
     return (
-        <div className="space-y-6">
-            <GlowPanel title="Stories">
+        <SectionBackground className="space-y-6">
+            <GlowPanel title="Q&A">
                 <p className="text-[var(--fg-soft)]">
-                    A live feed of first-hand accounts from people moving to Amerika. Read verified stories, ask questions, and share your own experience.
+                    A live feed of first-hand accounts and verified questions from people moving to Amerika. Read experiences, ask questions, and share your own insights.
                 </p>
             </GlowPanel>
 
@@ -31,6 +32,6 @@ export default function Stories() {
                     </div>
                 </GlowItem>
             </div>
-        </div>
+        </SectionBackground>
     );
 }

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import GlowPanel from "../components/GlowPanel";
 import GlowItem from "../components/GlowItem";
 import QuoteHero from "../components/QuoteHero";
-import StatesBackground from "../components/StatesBackground";
+import SectionBackground from "../components/SectionBackground";
 
 function LogoCarousel() {
     const logos = [
@@ -36,26 +36,49 @@ function LogoCarousel() {
 
 export default function Landing() {
     return (
-        <div className="landing-page-wrapper">
-            <div className="landing-bg-layer">
-                <StatesBackground />
-            </div>
-            <div className="landing-content space-y-10">
-                <LogoCarousel />
+        <SectionBackground className="space-y-10">
+            <LogoCarousel />
             <section className="landing-hero">
                 <div className="glow-panel rounded-[32px] border border-white/10 bg-slate-950/70 p-6 shadow-[0_50px_120px_-40px_rgba(15,23,42,0.65)]">
                     <div className="hero-intro">
-                        <p className="text-sm uppercase tracking-[0.35em] text-slate-400 mt-6">Amerikaner Online</p>
-                        <h1 className="text-black">A New Beginning for verified relocation journeys.</h1>
+                        <p className="uppercase tracking-[0.5em] text-slate-400 mt-6 site-name">Amerikaner Online</p>
+                        <h1>Real Journeys. Verified Stories. A New Beginning.</h1>
+                        
                         <p className="mt-4 text-[var(--fg-soft)]">
-                            Stories, support, and pathways forward for people moving under the South Africa refugee program. Real testimony, verified journeys, and practical guidance in one trusted platform.
+                            Amerikaner Online is a verified community platform for people exploring relocation opportunities through the South African refugee program.
+                        </p><br />
+
+                        <p className="mt-4 text-[var(--fg-soft)]">
+                            A trusted platform documenting verified relocation journeys under the South African refugee program.
+                        </p><br />
+
+                        <p className="mt-4 text-[var(--fg-soft)]">
+                            Explore authentic testimonies from people at every stage of the process — from uncertainty and preparation to relocation and rebuilding life in the United States.
+                        </p><br />
+
+                        <h1 className="text-black">Because life-changing decisions deserve real stories.</h1>
+
+                        <p className="mt-4 text-[var(--fg-soft)]">
+                            Read real testimonies from verified participants navigating every stage of the journey:
+                        </p><br />
+
+                            <ul>
+                                <li>Thinking of Leaving</li>
+                                <li>In Progress</li>
+                                <li>Relocated</li>
+                            </ul><br />
+
+                        <p className="mt-4 text-[var(--fg-soft)]">
+                            Built around transparency, shared experience, practical guidance, and trusted information — verified through Veri-Q.
                         </p>
+
+
                         <div className="hero-buttons">
-                            <Link to="/journey" className="btn-soft bg-[#0f172a] text-white hover:bg-[#111827]">
-                                Explore Journey
+                            <Link to="/journey" className="btn-soft bg-white text-[#0f172a] hover:bg-slate-200">
+                                Explore Journeys
                             </Link>
                             <Link to="/stories" className="btn-soft bg-white text-[#0f172a] hover:bg-slate-200">
-                                Read Stories
+                                Read Q&A
                             </Link>
                         </div>
                     </div>
@@ -76,7 +99,7 @@ export default function Landing() {
                             <GlowItem>
                                 <div>
                                     <h4 className="text-[var(--fg)] font-semibold">In Progress</h4>
-                                    <img src="public/images/amerikaner.online_site/stage_2_1.png" alt="Thinking of leaving?" className="my-2 w-full rounded-lg object-cover" />
+                                    <img src="public/images/amerikaner.online_site/stage_2_1.png" alt="In Progress" className="my-2 w-full rounded-lg object-cover" />
                                     <p className="text-[var(--fg-soft)] text-sm">
                                         Application status updates, document checklists, and community support while you wait.
                                     </p>
@@ -85,7 +108,7 @@ export default function Landing() {
                             <GlowItem>
                                 <div>
                                     <h4 className="text-[var(--fg)] font-semibold">Relocated</h4>
-                                    <img src="public/images/amerikaner.online_site/stage_3_1.png" alt="Thinking of leaving?" className="my-2 w-full rounded-lg object-cover" />
+                                    <img src="public/images/amerikaner.online_site/stage_3_1.png" alt="Relocated?" className="my-2 w-full rounded-lg object-cover" />
                                     <p className="text-[var(--fg-soft)] text-sm">
                                         Real arrival stories, settling advice, and life after the move.
                                     </p>
@@ -146,7 +169,6 @@ export default function Landing() {
                     </div>
                 </GlowPanel>
             </section>
-            </div>
-        </div>
+        </SectionBackground>
     );
 }

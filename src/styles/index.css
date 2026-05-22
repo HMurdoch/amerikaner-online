@@ -13,8 +13,8 @@
     --border: rgba(59,130,246,0.35);
     --fg: #111827; /* main text: charcoal/black */
     --fg-soft: #111111; /* secondary text: muted charcoal */
-    --accent: #38bdf8; /* cyan/teal-ish highlight */
-    --accent-600: #0891b2;
+    --accent: #1e40af; /* cyan/teal-ish highlight */
+    --accent-600: #1e40af;
     --muted: rgba(56,189,248,0.12);
     --shadow-accent: rgba(56,189,248,0.35);
 }
@@ -173,7 +173,7 @@ body {
    Default: blue/teal accents. Red theme via [data-theme="red"].
    ========================================================= */
 :root {
-    --accent: #38bdf8; /* cyan/teal */
+    --accent: #0f4cb2; /* cyan/teal */
     --accent-600: #0077cc;
     --accent-color: #0f4cb2; /* dark blue highlights */
     /* panel surface + text */
@@ -224,17 +224,17 @@ body {
     color: var(--heading-fg);
 }
 
-    .glow-panel .glow-heading::before {
-        content: "";
-        position: absolute;
-        left: 0;
-        top: .55em;
-        width: .48rem;
-        height: .48rem;
-        border-radius: 999px;
-        background: var(--accent-color, var(--accent));
-        box-shadow: 0 0 9px color-mix(in srgb, var(--accent-color, var(--accent)) 55%, transparent);
-    }
+.glow-panel .glow-heading::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: .55em;
+    width: .48rem;
+    height: .48rem;
+    border-radius: 999px;
+    background: var(--accent-color, var(--accent));
+    box-shadow: 0 0 9px color-mix(in srgb, var(--accent-color, var(--accent)) 55%, transparent);
+}
 
 /* =========================================================
    GLOW ITEM (rows/items INSIDE the panel)
@@ -751,14 +751,22 @@ body[data-theme="red"] {
 }
 
 .hero-intro h1 {
-    font-size: clamp(2.6rem, 4vw, 4.2rem);
+    font-size: clamp(1.8rem, 4vw, 0.4rem);
     line-height: 1.05;
     letter-spacing: -0.05em;
     margin-bottom: 0.75rem;
+    color: var(--accent-600) !important;
+}
+
+.site-name {
+    font-size: clamp(2.4rem, 4vw, 0.4rem);
+    font-weight: 900;
+    color: var(--accent) !important;
+    line-height: 2.05;
 }
 
 .hero-intro p {
-    max-width: 680px;
+    max-width: 1000px;
     margin: 0 auto;
     color: var(--text-muted, #111111);
 }
@@ -1994,11 +2002,11 @@ body[data-theme="red"] {
     box-shadow: 0 8px 22px rgba(15,23,42,.08);
 }
 
-    .nav-themes-btn:hover {
-        border-color: #38bdf8;
-        color: #0f172a;
-        background: #f8fafc;
-    }
+.nav-themes-btn:hover {
+    border-color: --accent-color, #0f4cb2;
+    color: #0f172a;
+    background: #f8fafc;
+}
 
 .nav-themes-label {
     font-weight: 600;
@@ -2020,17 +2028,17 @@ body[data-theme="red"] {
     transition: border-color .2s ease, background .2s ease, color .2s ease, transform .2s ease;
 }
 
-    .nav-button:hover {
-        border-color: var(--accent-color, #0f4cb2);
-        background: color-mix(in srgb, var(--accent-color, #0f4cb2) 10%, #ffffff);
-        transform: translateY(-1px);
-    }
+.nav-button:hover {
+    border-color: var(--accent-color, #0f4cb2);
+    background: color-mix(in srgb, var(--accent-color, #0f4cb2) 10%, #ffffff);
+    transform: translateY(-1px);
+}
 
-    .nav-button--active {
-        background: color-mix(in srgb, var(--accent-color, #0f4cb2) 15%, #ffffff);
-        border-color: var(--accent-color, #0f4cb2);
-        color: #0f172a;
-    }
+.nav-button--active {
+    background: color-mix(in srgb, var(--accent-color, #0f4cb2) 15%, #ffffff);
+    border-color: var(--accent-color, #0f4cb2);
+    color: #0f172a;
+}
 
 .nav-actions {
     display: flex;
@@ -2284,7 +2292,7 @@ body[data-theme="red"] {
 
 /* each <li> is simple */
 .nav-li {
-    list-style: none;
+    list-style: disc;
 }
 
 /* link base */

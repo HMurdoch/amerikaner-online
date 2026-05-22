@@ -80,9 +80,7 @@ export default function App() {
                 <canvas id="canvas" ref={canvasRef} className="liquid-canvas" aria-hidden="true" />
             </div>
             <main className="relative z-10 mx-auto max-w-[1694px] px-4 py-6">
-                <div className="glow-panel p-2 mb-6">
-                    <NavBar />
-                </div>
+                <NavBar />
                 <Suspense fallback={<Fallback />}>
                     <Routes>
                         <Route path="/" element={<Landing />} />

@@ -1,10 +1,11 @@
 import React from "react";
 import GlowPanel from "../components/GlowPanel";
 import GlowItem from "../components/GlowItem";
+import SectionBackground from "../components/SectionBackground";
 
 export default function Resources() {
     return (
-        <div className="space-y-6">
+        <SectionBackground className="space-y-6">
             <GlowPanel title="Resources">
                 <p className="text-[var(--fg-soft)]">
                     Practical resources for every step: documentation checklists, country guides, legal information, and trusted links.
@@ -37,6 +38,6 @@ export default function Resources() {
                     </div>
                 </GlowItem>
             </div>
-        </div>
+        </SectionBackground>
     );
 }

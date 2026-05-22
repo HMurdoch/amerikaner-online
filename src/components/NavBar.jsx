@@ -7,7 +7,7 @@ const LINKS = [
     { to: "/", label: "Home" },
     { to: "/about", label: "About" },
     { to: "/journey", label: "Journey" },
-    { to: "/stories", label: "Stories" },
+    { to: "/stories", label: "Q&A" },
     { to: "/connections", label: "Connections" },
     { to: "/resources", label: "Resources" },
     { to: "/news", label: "News" },

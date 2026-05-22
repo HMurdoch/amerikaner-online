@@ -1,10 +1,11 @@
 import React from "react";
 import GlowPanel from "../components/GlowPanel";
 import GlowItem from "../components/GlowItem";
+import SectionBackground from "../components/SectionBackground";
 
 export default function News() {
     return (
-        <div className="space-y-6">
+        <SectionBackground className="space-y-6">
             <GlowPanel title="News & Updates">
                 <p className="text-[var(--fg-soft)]">
                     Stay informed with the latest policy updates, platform announcements, and verified relocation news.
@@ -31,6 +32,6 @@ export default function News() {
                     </div>
                 </GlowItem>
             </div>
-        </div>
+        </SectionBackground>
     );
 }

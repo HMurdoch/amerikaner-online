@@ -1,9 +1,10 @@
 import React from "react";
 import GlowPanel from "../components/GlowPanel";
+import SectionBackground from "../components/SectionBackground";
 
 export default function Contact() {
     return (
-        <div className="space-y-6 max-w-3xl">
+        <SectionBackground className="space-y-6 max-w-3xl">
             <GlowPanel title="Contact Us">
                 <p className="text-[var(--fg-soft)]">
                     Need support or want to share a verified story? Reach out and our team will guide you to the right channel.
@@ -27,6 +28,6 @@ export default function Contact() {
                     Send message
                 </button>
             </form>
-        </div>
+        </SectionBackground>
     );
 }
